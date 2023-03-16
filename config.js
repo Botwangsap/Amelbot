@@ -62,75 +62,75 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['6285923463470', 'AnggaKz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nama pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorbot = '6285923463470'
+global.nomorown = '6285923463470'
+global.nomorown1 = '6285923463470'
+global.nomorown2 = '6285923463470'//bisa nama pacarmu
+global.nomorown3 = '6285923463470' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.author = 'Created By AnggaKz'
+global.namebot = 'Lisabotz-MD'
+global.wm = '© Lisabotz-MD | AnggaKz'
+global.media = 'https://telegra.ph/file/3f319df869776eebcdfb3.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = 'AnggaKz '
+global.wm3 = 'Lisabotz-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
+global.titlebot = `AnggaKz WhatsApp`
+global.stickpack = 'Lisabotz-MD'
+global.gcname = 'Lisabotz-MD'
+global.nameown1= 'AnggaKz'
+global.nameown2 = 'AnggaKz'
 global.nameown3 = 'Nothing'
-global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.packname2 = 'Lisabotz-MD'
+global.stickauth = `© AnggaKz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'AnggaKz'
 global.ultahowner = 'Febuari 02 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.sgc = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p' //group whatsapp
+global.lynk = 'https://instagram.com/anggatzi123'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r'
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
-global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
+global.sig = 'https://instagram.com/anggatzi123'
+global.sgh = 'https://github.com/Botwangsap' //github
+global.wame = 'wa.me/6285923463470'
+global.linkyt = 'https://instagram.com/anggatzi123'
+global.tautanwa = 'wa.me/6281998425782' //kalau bisa link wa bisnis kalian
 global.sfb = 'https://www.facebook.com/' // facebook
 global.sdc = '-' //discord
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.fakeyt = 'https://youtube.com/@Putra_Modz_'
-global.snh = 'https://youtube.com/@Putra_Modz_'
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.gcwangsaf = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
+global.fakeyt = 'https://instagram.com/anggatzi123'
+global.snh = 'https://instagram.com/anggatzi123'
+global.syt = 'https://instagram.com/anggatzi123'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.pdana = '0819 9842 5782'
+global.povo = '-'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0819 9842 5782'
+global.ppulsa2 = '081998425782'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 7 Hari IDR 10.000\n├ 1 bulan IDR 25.000\n├ permanen IDR 30.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -314,12 +314,12 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg' //Main Thumbnail
-global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
-global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg'
-global.imagebot = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg'
+global.thumb = 'https://telegra.ph/file/3f319df869776eebcdfb3.jpg' //Main Thumbnail
+global.thumbnail = 'https://telegra.ph/file/3f319df869776eebcdfb3.jpg'
+global.thumb2 = 'https://telegra.ph/file/3f319df869776eebcdfb3.jpg'
+global.imagebot = 'https://telegra.ph/file/3f319df869776eebcdfb3.jpg'
 global.giflogo = VideoGalau()
-global.thumbs = ['https://telegra.ph/file/da9f4b5973a80981079b9.jpg']
+global.thumbs = ['https://telegra.ph/file/3f319df869776eebcdfb3.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -493,9 +493,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/anggatzi123"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '0859 2346 3470'
 
 // ⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WARNING JGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
