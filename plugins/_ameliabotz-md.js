@@ -11,7 +11,7 @@ ${htki} ✨ LOGO KEREN  ${htka}
 
 • Ketik ulang *${usedPrefix + command}* teks anda untuk mengubah teks lagi
 
-• Nomor Developer : wa.me/6283863727401
+• Nomor Developer : wa.me/6285923473470
 • Nomor Owner Bot : wa.me/${nomorown}
 `
 //yang hapus nomor developer mudah-mudahan banyak crash
